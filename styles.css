@@ -28,6 +28,11 @@ section {
     font-weight: 600;
 }
 
+.nav-img{
+    height: 100px;
+    left: 100px;
+}
+
 .inicio-fundo {
     /* aula 3 */
     background-image: url('img/n3-agosto-site.png');
